@@ -63,7 +63,11 @@ section {
   width: 100%;
   margin-bottom: 40px;
   h2 {
+    font-family: "Rasa", serif;
+    font-optical-sizing: auto;
     text-align: center;
     font-size: 40px;
+    font-style: normal;
+    font-weight: 100;
   }
 }
